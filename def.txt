@@ -2,10 +2,6 @@ in def
 
 2nd line
 
-<<<<<<< HEAD
 3rd line
 
 4th line
-=======
-3rd line
->>>>>>> b5c88ad2c2bb9884489459f600343a77d4ad5b7b
